@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Fernando",
+        "surname": "Ureña Gómez",
+        "description": "Intructor udemy",
+        "sex": "hombre",
+        "email": "fernando@udemy.es",
+        "telephone": "666777888",
+        "company": "Udemy"
+    },
+    {
+        "name": "Leandro",
+        "surname": "Arturi",
+        "description": "Web Developer",
+        "sex": "hombre",
+        "email": "lea@hotmail.com",
+        "telephone": "101112233",
+        "company": "Pami"
+    },
+    {
+        "name": "Federico",
+        "surname": "Caballero Sánchez",
+        "description": "Compañero de trabajo",
+        "sex": "hombre",
+        "email": "fcs@gmail.es",
+        "telephone": "666123123",
+        "company": "Indra"
+    }
+]
